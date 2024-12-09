@@ -19,7 +19,7 @@ export default function Header() {
             style={{
               fontFamily: 'Integral CF, sans-serif', // Custom font
               textDecorationSkipInk: 'none',
-            }}
+            }};
           >
             FIND CLOTHES THAT MATCHES YOURSELF
           </h1>
@@ -30,7 +30,7 @@ export default function Header() {
             style={{
               fontFamily: 'Satoshi, sans-serif', // Custom font
               textDecorationSkipInk: 'none',
-            }}
+            }};
           >
             Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.
           </p>
@@ -106,7 +106,7 @@ export default function Header() {
       left: '50%',
       transform: 'translateX(-50%)',
       zIndex: 10,
-    }}
+    }};
   >
     NEW ARRIVALS
   </h2>
@@ -201,7 +201,7 @@ export default function Header() {
     left: '50%',
     transform: 'translateX(-50%)',
     zIndex: 10,
-  }}
+  }};
   >
     TOP SELLING
   </h2>
