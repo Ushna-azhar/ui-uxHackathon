@@ -13,7 +13,7 @@ export default function Footer() {
             style={{
               fontFamily: 'Integral CF, sans-serif',
               textDecorationSkipInk: 'none',
-            }}
+            }};
           >
             STAY UP TO DATE FOR MORE OFFERS 
           </h2>
