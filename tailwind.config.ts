@@ -18,7 +18,7 @@ const config: Config = {
         'md': '780px',
         'lg': '1024px',
         'xl': '1280px',
-        '2xl': '1536px',  // Added the px unit here
+        '2xl': '1536px',  // Corrected, no 'px' unit needed
       },
       fontFamily: {
         satoshi: ['Satoshi', 'sans-serif'], // Satoshi font added
